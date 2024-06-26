@@ -1,3 +1,6 @@
+Este repositório foi feito para cumprir o desafio da DIO, no qual consiste em exercitar todo o conteúdo mostrado sobre Controle de Fluxo.
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
