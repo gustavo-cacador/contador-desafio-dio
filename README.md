@@ -1,4 +1,4 @@
-Este repositório foi feito para cumprir o desafio da DIO, no qual consiste em exercitar todo o conteúdo mostrado sobre Controle de Fluxo.
+## Este repositório foi feito para cumprir o desafio da DIO, no qual consiste em exercitar todo o conteúdo mostrado sobre Controle de Fluxo (Contador).
 
 
 ## Getting Started
